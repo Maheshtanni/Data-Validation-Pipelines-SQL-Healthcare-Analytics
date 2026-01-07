@@ -1,4 +1,4 @@
-# 🔍 Data Validation Pipelines (SQL) — Healthcare Analytics
+# 🔍 Data Validation  (SQL) — Healthcare Analytics
 
 ## Overview
 Analytics pipelines are only as strong as the data they ingest. This project demonstrates a **SQL-based data validation pipeline** designed to detect, classify, and quantify **data quality risks** in healthcare datasets before they reach downstream analytics and reporting layers.
@@ -20,7 +20,7 @@ Traditional row-level error checks do not answer these questions. This project i
 
 ## Dataset
 **Type:** Synthetic healthcare claims data  
-**Domain:** Claims processing / revenue cycle analytics  
+**Domain:** Claims processing/revenue cycle analytics  
 
 The dataset intentionally includes both valid and invalid records to simulate real-world ingestion challenges.
 
