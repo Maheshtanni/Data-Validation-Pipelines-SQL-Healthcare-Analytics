@@ -66,7 +66,6 @@ Instead of treating all validation failures equally, the pipeline applies **seve
 |--------|--------|
 | HIGH | 5 |
 | MEDIUM | 2 |
-| LOW | 1 |
 
 This enables:
 - Risk-based prioritization
@@ -84,7 +83,7 @@ The pipeline produces SQL views designed for BI and monitoring tools:
 - **Category risk summary**
   - Aggregated risk by validation category
 - **Severity distribution**
-  - Breakdown of HIGH / MEDIUM / LOW issues
+  - Breakdown of HIGH / MEDIUM 
 - **Executive scorecard**
   - Total records processed
   - Claims with validation failures
